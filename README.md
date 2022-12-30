@@ -8,13 +8,13 @@ This is an example of how you may give instructions on setting up this project l
 You need to have python3, pip and git installed to run the code.
 
 # Installation
-1. Clone the repo
+1. Clone the repo <br>
 git clone https://github.com/vishnurajsaravanan/FoxNewsWebScrapping.git
-2. cd to cloned Directory
+2. cd to cloned Directory <br>
 cd FoxNewsWebScrapping
-3. Install pip packages
+3. Install pip packages <br>
 pip3 install -r requirements.txt
-4. Run the code
+4. Run the code <br>
 python3 foxnews.py
 OR
 python foxnews.py

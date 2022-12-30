@@ -11,5 +11,5 @@ for headline_elem in headline_elems:
     link_elem = headline_elem.find("a")
     if link_elem is not None:
         print(link_elem.text.strip())
-        print(link_elem["href"])
+        print(f'https:{link_elem["href"]}')
         print()

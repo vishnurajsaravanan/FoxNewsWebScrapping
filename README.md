@@ -15,7 +15,8 @@ cd FoxNewsWebScrapping
 3. Install pip packages <br>
 pip3 install -r requirements.txt
 4. Run the code <br>
-python3 foxnews.py
-OR
-python foxnews.py
+python3 foxnews.py <br>
+or <br>
+python foxnews.py <br>
+<br>
 Now you'll get all the live news from the fox news website, it helps to find all the information in one screen.
